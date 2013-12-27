@@ -1,6 +1,6 @@
-dcctrl.sh - a simple shell script making it a bit easier to interact with local (any)coind wallet
+dcctrl.sh - a simple shell script making it a bit easier to interact with local (any)coind wallet daemon through your linux comsole.
 
-Initially developed for dogecoind, hence "dc" in its name.
+Initially developed for dogecoin, hence "dc" in its name. But you can easily switch to any other criptocoins.
 
 
 USAGE:
@@ -23,9 +23,10 @@ $ dcctrl.sh getinfo
 ...
 I guess you already got an idea :)
 
+
 If you have any suggestions on how to improve this script, don't hecitate to let me know.
 
-If you find this script useful, support it:
+If you find this script useful, please support it:
 =====
 DOGE: D8tgup291Rtk7PrfM9zprVTZ7zfni1v9JT
 LTC:  LMgxLFhRun65fTwkwPoqc21sSGD4uJPuPh
