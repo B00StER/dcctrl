@@ -1,3 +1,34 @@
-dcctrl - a simple shell script making it a bit easier to interact with local (any)coind wallet
-Initially developed for dogecoind, hence the "dc" in its name.
+dcctrl.sh - a simple shell script making it a bit easier to interact with local (any)coind wallet
 
+Initially developed for dogecoind, hence "dc" in its name.
+
+
+USAGE:
+
+Just take a look at source, it is pretty self-explaining.
+Update DAEMON and DATADIR with actual pathnames in your system.
+
+Examples:
+
+Start / Stop the daemon:
+$ dcctrl.sh start
+$ dcctrl.sh stop
+
+Shows your current address:
+$ dcctrl.sh getaddress
+
+Show the wallet status:
+dcctrl.sh getinfo
+
+...
+I guess you got the idea :)
+
+If you have any suggestions on how to improve this script, don't hecitate to let me know.
+
+If you find this script useful, support it:
+DOGE: D8tgup291Rtk7PrfM9zprVTZ7zfni1v9JT
+LTC: LMgxLFhRun65fTwkwPoqc21sSGD4uJPuPh
+
+
+---
+mikeeru@gmail.com
