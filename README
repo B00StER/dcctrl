@@ -18,10 +18,10 @@ Shows your current address:
 $ dcctrl.sh getaddress
 
 Show the wallet status:
-dcctrl.sh getinfo
+$ dcctrl.sh getinfo
 
 ...
-I guess you got the idea :)
+I guess you already got an idea :)
 
 If you have any suggestions on how to improve this script, don't hecitate to let me know.
 
