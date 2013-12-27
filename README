@@ -1,0 +1,3 @@
+dcctrl - a simple shell script making it a bit easier to interact with local (any)coind wallet
+Initially developed for dogecoind, hence the "dc" in its name.
+
